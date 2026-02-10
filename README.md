@@ -1,4 +1,5 @@
 # Bus Ticket Booking & Boarding Optimization System
+<img width="1908" height="869" alt="Screenshot 2026-02-09 230209" src="https://github.com/user-attachments/assets/4f6fd842-e76c-40f8-8881-e34bf858cfb0" />
 
 ## 📌 Project Overview
 A full-stack application designed for bus conductors to manage seat bookings and optimize passenger boarding sequences. The system focuses on minimizing total boarding time by enforcing a smart boarding order based on seat location.
